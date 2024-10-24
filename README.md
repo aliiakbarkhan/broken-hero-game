@@ -3,6 +3,8 @@
 ## Overview 🌟
 **Broken Hero** is a fast-paced, first-person shooter built using the **Godot Engine**. You take on the role of a hero fighting for survival in hostile environments. Armed with an array of powerful weapons, your objective is to eliminate enemies, complete missions, and stay alive in intense firefights. The game focuses on dynamic combat, tactical shooting, and immersive 3D environments.
 
+⚠️ **Note**: This game is currently **under development** and not yet complete. Expect frequent updates and new features in upcoming versions.
+
 ## Features 🔥
 - **Realistic FPS Combat**: Experience smooth, high-speed FPS mechanics with realistic weapon handling.
 - **Diverse Arsenal**: Choose from a variety of weapons, each with unique attributes and firepower.
@@ -44,12 +46,13 @@ Follow these steps to play the game:
 - **Multiplayer Mode**: Introduce online multiplayer for co-op or PvP modes.
 - **Additional Levels**: Add more challenging levels with complex objectives.
 - **Weapon Customization**: Allow players to modify and upgrade their weapons.
+- **Storyline Expansion**: Introduce a rich narrative to enhance the player's experience.
 
 ## License 📜
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing 🤝
-Currently, we’re not accepting contributions, but feel free to provide feedback or report issues via the issue tracker.
+We are still in the early development stage, but feedback and issue reporting are always welcome!
 
 ## Contact 📬
 For queries or feedback, you can reach out at `your.email@example.com`.
