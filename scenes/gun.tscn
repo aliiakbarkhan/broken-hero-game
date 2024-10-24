@@ -1,0 +1,56 @@
+[gd_scene load_steps=7 format=3 uid="uid://bcuaih06yyb40"]
+
+[ext_resource type="PackedScene" uid="uid://sl8l8mh2v8v3" path="res://models/Assault Rifle.glb" id="1_ndenl"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yubp4"]
+metallic = 1.0
+metallic_specular = 0.0
+roughness = 0.55
+emission_enabled = true
+grow = true
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_dvl42"]
+albedo_color = Color(0.733595, 0.208022, 0, 1)
+metallic = 0.57
+metallic_specular = 1.0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cdn65"]
+albedo_color = Color(0.660895, 0.163423, 0, 1)
+metallic_specular = 1.0
+grow = true
+
+[sub_resource type="Animation" id="Animation_eg7oo"]
+resource_name = "shoot"
+length = 0.1
+step = 0.01
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("RootNode/AssaultRifle2_1:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.01, 0.1),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0.05, 0, 0), Vector3(0, 0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_sguw7"]
+_data = {
+"shoot": SubResource("Animation_eg7oo")
+}
+
+[node name="Root Scene" instance=ExtResource("1_ndenl")]
+
+[node name="AssaultRifle2_1" parent="RootNode" index="0"]
+cast_shadow = 0
+surface_material_override/0 = SubResource("StandardMaterial3D_yubp4")
+surface_material_override/1 = SubResource("StandardMaterial3D_dvl42")
+surface_material_override/2 = SubResource("StandardMaterial3D_cdn65")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="RootNode" index="1"]
+root_node = NodePath("../..")
+libraries = {
+"": SubResource("AnimationLibrary_sguw7")
+}
