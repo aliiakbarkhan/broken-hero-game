@@ -1284,6 +1284,21 @@ transform = Transform3D(3, 0, 0, 0, 2.29813, -1.92836, 0, 1.92836, 2.29813, -15.
 transform = Transform3D(2.39502, -1.80662, -7.89697e-08, 0, -1.31134e-07, 3, -1.80662, -2.39502, -1.0469e-07, -12.062, 1.4, 38.1502)
 
 [node name="iron-fence22" parent="stage/NavigationRegion3D/graveyerd" instance=ExtResource("7_qx0le")]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -0.174994, 0, 39.4637)
+
+[node name="iron-fence22" parent="stage/NavigationRegion3D/graveyerd/iron-fence22" instance=ExtResource("7_qx0le")]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -3.18509, 0, 39.4637)
+
+[node name="iron-fence23" parent="stage/NavigationRegion3D/graveyerd" instance=ExtResource("7_qx0le")]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -3.1181, 0, 39.4637)
+
+[node name="iron-fence22" parent="stage/NavigationRegion3D/graveyerd/iron-fence23" instance=ExtResource("7_qx0le")]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -3.18509, 0, 39.4637)
+
+[node name="iron-fence24" parent="stage/NavigationRegion3D/graveyerd" instance=ExtResource("7_qx0le")]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -3.1181, 0, 34.9105)
+
+[node name="iron-fence22" parent="stage/NavigationRegion3D/graveyerd/iron-fence24" instance=ExtResource("7_qx0le")]
 transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -3.18509, 0, 39.4637)
 
 [node name="iron-fence-damaged2" parent="stage/NavigationRegion3D/graveyerd" instance=ExtResource("6_lv2q0")]
