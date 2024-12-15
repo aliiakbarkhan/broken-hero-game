@@ -1,4 +1,5 @@
 # Broken Hero: FPS Shooting Game 🔫🎮
+<img src = "screenshots/Black Grey Aqua Grunge Gaming YouTube Banner.png" width="100%" height="auto"/>
 
 ## Overview 🌟
 **Broken Hero** is a fast-paced, first-person shooter built using the **Godot Engine**. You take on the role of a hero fighting for survival in hostile environments. Armed with an array of powerful weapons, your objective is to eliminate enemies, complete missions, and stay alive in intense firefights. The game focuses on dynamic combat, tactical shooting, and immersive 3D environments.
@@ -12,16 +13,14 @@
 - **Immersive Environments**: Detailed 3D environments that enhance the tactical aspect of gameplay.
 
 ## Gameplay Trailer 🎥
-Check out the action-packed gameplay trailer here: [Broken Hero Trailer](#)
+Check out the action-packed gameplay trailer here: [Broken Hero Trailer](https://www.linkedin.com/posts/aliakbar-khan_techforgame-gamedev-fps-activity-7254569099580563456-dZxz?utm_source=share&utm_medium=member_desktop)
 
 ## Screenshots 📸
 Key moments from the game:
 
-| Weapon Loadout | Battle in Progress | Final Showdown |
+| World Picture | Enviroment | Grass Picture |
 |:--------------:|:------------------:|:--------------:|
-| ![Weapon Loadout](path/to/weapon_loadout.png) | ![Battle Scene](path/to/battle_scene.png) | ![Final Showdown](path/to/final_showdown.png) |
-
-(Upload your images in the repository and update the file paths accordingly.)
+| <img src = "screenshots/Screenshot 2024-10-24 143659.png"/> | <img src = "screenshots/Screenshot 2024-10-24 143711.png"/> | <img src = "screenshots/Screenshot 2024-10-24 143720.png"/> |
 
 ## Installation 💻
 Follow these steps to play the game:
@@ -55,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE).
 We are still in the early development stage, but feedback and issue reporting are always welcome!
 
 ## Contact 📬
-For queries or feedback, you can reach out at `your.email@example.com`.
+For queries or feedback, you can reach out at `aliakbarkahana79@gmail.com`.
