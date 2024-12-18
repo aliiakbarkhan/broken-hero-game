@@ -1,5 +1,7 @@
 # Broken Hero: FPS Shooting Game 🔫🎮
-<img src = "screenshots/Black Grey Aqua Grunge Gaming YouTube Banner.png" width="100%" height="auto"/>
+
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dewg6sk-81e712db-48c4-4ac0-a977-f4ef9529030a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV3ZzZzay04MWU3MTJkYi00OGM0LTRhYzAtYTk3Ny1mNGVmOTUyOTAzMGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MXF79tgIkXiYRKk1knuFfkO-8bhBclosUx5E0fdvpWw" />
+
 
 ## Overview 🌟
 **Broken Hero** is a fast-paced, first-person shooter built using the **Godot Engine**. You take on the role of a hero fighting for survival in hostile environments. Armed with an array of powerful weapons, your objective is to eliminate enemies, complete missions, and stay alive in intense firefights. The game focuses on dynamic combat, tactical shooting, and immersive 3D environments.
@@ -55,3 +57,5 @@ We are still in the early development stage, but feedback and issue reporting ar
 
 ## Contact 📬
 For queries or feedback, you can reach out at `aliakbarkahana79@gmail.com`.
+
+<img src = "screenshots/Black Grey Aqua Grunge Gaming YouTube Banner.png" width="100%" height="auto"/>
