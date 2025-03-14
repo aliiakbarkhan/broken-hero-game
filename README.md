@@ -50,7 +50,8 @@ Follow these steps to play the game:
 - **Storyline Expansion**: Introduce a rich narrative to enhance the player's experience.
 
 ## License 
-This project is licensed under the [MIT License](LICENSE).
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 ## Contributing 
 We are still in the early development stage, but feedback and issue reporting are always welcome!
